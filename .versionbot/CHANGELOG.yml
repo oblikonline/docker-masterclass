@@ -1,4 +1,15 @@
 - commits:
+    - subject: Update README with docker masterclass reference
+      hash: f7eee8f3de03c865fda0ca6cc82b3f5cbbffec3e
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Matthew Yarmolinsky
+  version: 1.0.8
+  title: ""
+  date: 2026-05-29T13:02:55.696Z
+- commits:
     - subject: "patch: Create flowzone.yml"
       hash: f71da7f5221a4c646c2ab3dbc4f3e59c96a2d949
       body: ""
